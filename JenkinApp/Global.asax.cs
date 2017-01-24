@@ -9,6 +9,9 @@ using System.Web.Routing;
 
 namespace JenkinApp
 {
+    /// <summary>
+    /// application class
+    /// </summary>
     public class MvcApplication : System.Web.HttpApplication
     {
         protected void Application_Start()
